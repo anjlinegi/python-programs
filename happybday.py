@@ -3,5 +3,7 @@ def singHappyBday(name):
 	
 name=input("enter name")
 singHappyBday(name)
+singHappyBday(name)
+
 	
 	
